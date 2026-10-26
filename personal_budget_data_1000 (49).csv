@@ -1,0 +1,1001 @@
+TransactionID,TransactionDate,TransactionAmount,TransactionCategory,Region,Store,Time,TransactionType
+1,10/2/2024,4438.35,Expense,North,Local Market,5:20:00,Card
+2,3/3/2024,6796.32,Income,North,Freelance,12:42:00,Cash
+3,11/30/2024,3302.23,Expense,West,Salary,23:03:00,UPI
+4,6/16/2024,2362.35,Expense,West,Costco,23:26:00,Bank Transfer
+5,3/30/2024,1509.21,Income,North,Amazon,21:05:00,UPI
+6,8/5/2024,2794.96,Income,West,Freelance,20:09:00,UPI
+7,5/13/2024,2098.83,Expense,East,Local Market,6:28:00,Bank Transfer
+8,6/20/2024,852.61,Expense,South,Amazon,20:37:00,Cash
+9,2/29/2024,2624.47,Expense,South,Amazon,13:37:00,UPI
+10,7/15/2024,2158.34,Expense,East,Local Market,0:28:00,Card
+11,5/10/2024,3977.14,Expense,South,Salary,20:36:00,Bank Transfer
+12,7/21/2024,6450.38,Income,North,Freelance,12:16:00,Card
+13,7/28/2024,1272.83,Income,East,Local Market,22:08:00,UPI
+14,7/15/2024,3683.51,Expense,South,Walmart,13:26:00,Cash
+15,8/26/2024,1880.46,Expense,East,Local Market,3:14:00,Card
+16,1/18/2024,1457.23,Expense,North,Local Market,8:18:00,UPI
+17,11/6/2024,8169.34,Income,West,Walmart,7:03:00,UPI
+18,4/23/2024,4340.53,Expense,East,Costco,3:36:00,UPI
+19,9/17/2024,6768.39,Income,South,Freelance,23:10:00,Card
+20,10/9/2024,8472.41,Income,East,Costco,10:46:00,Card
+21,9/27/2024,2778.07,Expense,South,Costco,15:20:00,Cash
+22,9/5/2024,2389.27,Income,North,Walmart,9:00:00,Cash
+23,10/10/2024,7294.94,Income,South,Salary,17:53:00,Cash
+24,4/8/2024,3990.45,Income,West,Walmart,22:51:00,UPI
+25,1/29/2024,135.65,Expense,North,Costco,13:00:00,Card
+26,4/24/2024,4096.69,Expense,South,Walmart,21:16:00,Cash
+27,9/10/2024,2128.25,Expense,North,Walmart,5:39:00,Cash
+28,8/13/2024,2944.97,Income,North,Local Market,3:11:00,Cash
+29,1/26/2024,4930.04,Expense,West,Freelance,18:36:00,Cash
+30,2/29/2024,841.35,Expense,West,Freelance,12:27:00,UPI
+31,3/26/2024,3218.64,Expense,North,Uber,20:35:00,UPI
+32,8/18/2024,3025.74,Expense,North,Salary,5:27:00,UPI
+33,6/30/2024,5702.65,Income,South,Walmart,20:53:00,UPI
+34,11/2/2024,8300.25,Income,North,Uber,3:41:00,Bank Transfer
+35,3/25/2024,9174.47,Income,West,Walmart,6:26:00,Card
+36,1/11/2024,3962.27,Expense,North,Amazon,4:29:00,Card
+37,6/8/2024,258.79,Expense,North,Amazon,1:50:00,Card
+38,10/10/2024,4035.76,Expense,North,Amazon,5:24:00,Cash
+39,9/1/2024,3262.02,Expense,West,Uber,12:37:00,Bank Transfer
+40,4/9/2024,5918.51,Income,West,Uber,7:27:00,Bank Transfer
+41,12/11/2024,2636.6,Income,South,Freelance,11:47:00,Card
+42,5/13/2024,3514.51,Expense,South,Freelance,8:34:00,UPI
+43,6/2/2024,2011.95,Expense,North,Walmart,4:27:00,Bank Transfer
+44,6/9/2024,1327.5,Income,West,Walmart,4:22:00,Card
+45,8/11/2024,2902.44,Expense,South,Uber,11:39:00,UPI
+46,10/27/2024,1557.78,Expense,East,Local Market,1:19:00,Cash
+47,1/10/2024,3825.89,Expense,South,Freelance,18:32:00,Cash
+48,4/24/2024,4432.75,Expense,North,Salary,10:59:00,UPI
+49,5/5/2024,4591.9,Expense,East,Uber,10:48:00,UPI
+50,9/23/2024,1515.42,Income,West,Amazon,7:11:00,Card
+51,12/19/2024,367.46,Expense,North,Walmart,5:42:00,Card
+52,7/20/2024,6786.44,Income,South,Walmart,7:10:00,Card
+53,1/12/2024,1541.64,Expense,West,Salary,9:43:00,Card
+54,1/22/2024,4022.51,Expense,East,Amazon,3:54:00,UPI
+55,12/27/2024,3305.73,Income,East,Costco,9:12:00,UPI
+56,7/14/2024,3575.44,Expense,South,Salary,5:10:00,Card
+57,8/9/2024,5130.61,Income,East,Costco,20:37:00,Card
+58,12/11/2024,3054.28,Expense,North,Walmart,15:05:00,UPI
+59,10/13/2024,165.41,Expense,West,Walmart,8:47:00,Cash
+60,11/4/2024,8009.57,Income,East,Walmart,21:04:00,Cash
+61,10/16/2024,4068.48,Income,West,Walmart,14:44:00,Card
+62,4/30/2024,5178.26,Income,East,Uber,20:33:00,Cash
+63,5/17/2024,753.67,Expense,South,Local Market,18:40:00,Bank Transfer
+64,12/5/2024,9841.9,Income,South,Amazon,23:35:00,Bank Transfer
+65,2/23/2024,3248.81,Expense,North,Costco,7:44:00,Cash
+66,6/20/2024,2790.59,Income,East,Amazon,18:03:00,Bank Transfer
+67,7/6/2024,4133.29,Income,South,Local Market,14:37:00,Cash
+68,5/16/2024,9147.77,Income,West,Uber,6:44:00,UPI
+69,9/30/2024,225.49,Expense,North,Walmart,2:43:00,Bank Transfer
+70,1/5/2024,3377.55,Income,North,Uber,0:36:00,Card
+71,1/12/2024,4668.27,Expense,West,Local Market,14:36:00,Cash
+72,2/24/2024,8230.84,Income,North,Walmart,15:14:00,Card
+73,9/16/2024,4509.39,Expense,South,Salary,2:45:00,UPI
+74,9/24/2024,6463.66,Income,West,Salary,5:33:00,Card
+75,4/26/2024,1099.32,Expense,North,Local Market,22:23:00,Card
+76,8/5/2024,2543.04,Income,East,Walmart,0:40:00,Card
+77,9/21/2024,4142.38,Expense,North,Local Market,20:08:00,UPI
+78,1/21/2024,3390.69,Expense,South,Local Market,1:10:00,Card
+79,9/25/2024,8118.8,Income,North,Salary,3:23:00,UPI
+80,4/29/2024,530.78,Expense,East,Costco,22:45:00,Cash
+81,10/17/2024,542.33,Expense,North,Local Market,1:53:00,Bank Transfer
+82,6/23/2024,4340.5,Expense,East,Salary,21:52:00,UPI
+83,8/12/2024,2266.07,Income,South,Freelance,16:51:00,Bank Transfer
+84,4/20/2024,3194.58,Income,South,Walmart,18:04:00,UPI
+85,4/14/2024,199.04,Expense,East,Freelance,1:49:00,UPI
+86,12/9/2024,3817.19,Income,West,Amazon,7:03:00,Cash
+87,7/17/2024,4828.95,Expense,South,Salary,6:51:00,UPI
+88,2/21/2024,3575.52,Expense,North,Walmart,14:30:00,Bank Transfer
+89,10/29/2024,9892.74,Income,North,Uber,20:30:00,Card
+90,7/23/2024,4253.58,Income,West,Uber,10:09:00,Bank Transfer
+91,10/8/2024,1127.32,Expense,North,Costco,14:42:00,Cash
+92,10/18/2024,3229.48,Expense,North,Salary,12:46:00,Bank Transfer
+93,6/6/2024,5995.73,Income,North,Salary,23:43:00,Card
+94,2/25/2024,4532.85,Expense,North,Salary,10:31:00,Bank Transfer
+95,11/26/2024,7223.53,Income,West,Freelance,11:53:00,UPI
+96,10/11/2024,1208.49,Expense,North,Freelance,15:11:00,Bank Transfer
+97,7/17/2024,5037.53,Income,North,Amazon,20:37:00,Cash
+98,4/7/2024,6188.73,Income,West,Costco,2:38:00,Card
+99,1/26/2024,8241.13,Income,West,Amazon,3:31:00,Card
+100,8/6/2024,2451.05,Income,West,Salary,17:12:00,Card
+101,5/15/2024,406.29,Expense,East,Freelance,22:48:00,Cash
+102,7/28/2024,6681.27,Income,West,Costco,23:41:00,UPI
+103,11/17/2024,4819.97,Income,South,Uber,8:42:00,Cash
+104,11/28/2024,5206.61,Income,West,Salary,19:53:00,Card
+105,4/16/2024,4217.86,Expense,West,Local Market,20:35:00,UPI
+106,3/11/2024,2496.07,Income,West,Salary,15:47:00,Bank Transfer
+107,11/13/2024,1627.82,Expense,South,Freelance,12:30:00,UPI
+108,3/5/2024,7711.93,Income,West,Walmart,1:21:00,Bank Transfer
+109,3/29/2024,2275.76,Income,North,Local Market,7:19:00,UPI
+110,3/21/2024,1024.56,Expense,North,Amazon,19:59:00,Card
+111,12/11/2024,1499.68,Expense,North,Amazon,15:20:00,Bank Transfer
+112,8/24/2024,4740.05,Expense,East,Salary,20:13:00,Card
+113,7/27/2024,1661.19,Income,East,Walmart,13:03:00,UPI
+114,2/13/2024,6661.92,Income,East,Amazon,15:04:00,UPI
+115,11/27/2024,284.47,Expense,East,Local Market,21:25:00,UPI
+116,6/12/2024,6265.51,Income,East,Costco,15:03:00,Card
+117,9/20/2024,6493.02,Income,West,Amazon,4:46:00,UPI
+118,2/25/2024,9170.4,Income,North,Local Market,1:24:00,Card
+119,4/30/2024,8704.58,Income,South,Amazon,3:35:00,Card
+120,7/25/2024,2213.52,Expense,North,Freelance,19:04:00,Bank Transfer
+121,12/13/2024,359.09,Expense,West,Walmart,16:58:00,Card
+122,12/27/2024,2028.36,Expense,South,Uber,21:34:00,Bank Transfer
+123,1/27/2024,1584.91,Expense,East,Costco,11:36:00,Cash
+124,6/29/2024,4481.79,Income,North,Costco,7:47:00,UPI
+125,9/21/2024,4336.93,Income,East,Uber,11:20:00,Cash
+126,12/27/2024,3737.78,Expense,East,Uber,21:11:00,Cash
+127,5/14/2024,2065.44,Expense,West,Salary,18:20:00,UPI
+128,6/15/2024,6565.97,Income,North,Freelance,2:21:00,UPI
+129,5/28/2024,7792,Income,South,Costco,22:05:00,Cash
+130,9/7/2024,3609.63,Expense,North,Uber,4:21:00,Cash
+131,11/19/2024,3131.43,Expense,West,Uber,0:49:00,UPI
+132,7/3/2024,6846.68,Income,South,Freelance,6:39:00,UPI
+133,4/20/2024,2329.5,Income,West,Uber,20:22:00,Bank Transfer
+134,10/20/2024,546.68,Expense,East,Amazon,17:46:00,UPI
+135,5/29/2024,3532.28,Expense,South,Salary,21:40:00,Cash
+136,11/26/2024,1214.3,Expense,North,Walmart,13:47:00,UPI
+137,5/14/2024,4965.93,Expense,North,Salary,18:18:00,Bank Transfer
+138,11/14/2024,2140.1,Expense,East,Amazon,22:46:00,UPI
+139,2/20/2024,4117.11,Expense,South,Amazon,22:37:00,Card
+140,4/8/2024,3804.66,Income,North,Salary,19:18:00,Card
+141,1/23/2024,6216.25,Income,South,Salary,6:37:00,UPI
+142,7/26/2024,842.57,Expense,West,Amazon,21:08:00,Cash
+143,4/21/2024,7929.28,Income,North,Amazon,17:00:00,Cash
+144,2/20/2024,4539.82,Income,South,Uber,23:52:00,UPI
+145,5/27/2024,4386.21,Income,North,Local Market,7:02:00,Card
+146,9/13/2024,1489.14,Expense,South,Costco,1:06:00,Card
+147,1/16/2024,4441.18,Expense,North,Uber,20:58:00,Card
+148,12/28/2024,9754,Income,North,Uber,23:14:00,Cash
+149,6/1/2024,4441.33,Expense,East,Freelance,7:20:00,Bank Transfer
+150,12/7/2024,3848.92,Expense,West,Walmart,9:35:00,UPI
+151,7/6/2024,4469.23,Expense,South,Freelance,1:45:00,Card
+152,7/22/2024,1352.06,Income,West,Uber,21:33:00,UPI
+153,2/11/2024,2186.14,Expense,West,Uber,10:29:00,UPI
+154,3/20/2024,4201.8,Expense,West,Amazon,13:26:00,Bank Transfer
+155,4/5/2024,3036.56,Income,East,Costco,13:31:00,Card
+156,2/23/2024,2149.11,Expense,East,Walmart,17:05:00,Card
+157,2/7/2024,7220.62,Income,East,Local Market,0:49:00,UPI
+158,8/24/2024,3777.08,Income,South,Amazon,4:58:00,Card
+159,1/6/2024,2996.58,Expense,East,Local Market,19:09:00,UPI
+160,2/13/2024,2064.27,Expense,East,Freelance,11:03:00,UPI
+161,7/14/2024,4546.45,Expense,North,Freelance,17:30:00,Bank Transfer
+162,3/23/2024,4637.47,Income,East,Walmart,16:16:00,Cash
+163,8/30/2024,3925.81,Income,South,Local Market,15:55:00,Bank Transfer
+164,10/30/2024,3925.25,Expense,North,Costco,2:32:00,Card
+165,10/29/2024,4849.06,Income,West,Local Market,17:56:00,UPI
+166,12/30/2024,5575.84,Income,West,Local Market,19:47:00,Bank Transfer
+167,6/19/2024,1484.35,Expense,North,Freelance,5:49:00,UPI
+168,9/28/2024,3973.85,Expense,South,Salary,10:36:00,UPI
+169,1/25/2024,3659.21,Expense,North,Local Market,0:47:00,Card
+170,3/31/2024,503.44,Expense,North,Salary,7:20:00,Cash
+171,3/19/2024,9025.43,Income,South,Local Market,4:46:00,Card
+172,9/3/2024,114.31,Expense,East,Amazon,9:51:00,Bank Transfer
+173,12/27/2024,4632.13,Income,North,Uber,18:10:00,UPI
+174,3/12/2024,6206.35,Income,South,Salary,3:23:00,Cash
+175,1/16/2024,1898.37,Expense,West,Local Market,2:58:00,Card
+176,12/9/2024,7544.33,Income,South,Walmart,20:37:00,Bank Transfer
+177,6/30/2024,4501.07,Expense,West,Salary,15:02:00,UPI
+178,7/11/2024,5451.4,Income,South,Walmart,5:38:00,Card
+179,8/9/2024,1104.63,Income,South,Local Market,18:29:00,Card
+180,4/20/2024,2854.25,Income,East,Salary,5:39:00,Bank Transfer
+181,2/7/2024,6377.22,Income,East,Costco,10:39:00,UPI
+182,2/5/2024,3162.99,Expense,South,Local Market,17:23:00,Cash
+183,9/20/2024,3029.92,Expense,East,Local Market,12:52:00,UPI
+184,8/29/2024,7343.82,Income,North,Amazon,5:35:00,Cash
+185,10/8/2024,3209,Income,South,Freelance,17:58:00,Bank Transfer
+186,4/25/2024,6382.41,Income,North,Costco,0:29:00,Card
+187,11/21/2024,2794.83,Income,North,Salary,2:24:00,Card
+188,6/19/2024,1968.06,Income,West,Walmart,9:28:00,Bank Transfer
+189,9/17/2024,784.46,Expense,South,Local Market,17:30:00,UPI
+190,10/1/2024,4212.19,Expense,North,Walmart,7:47:00,Cash
+191,6/22/2024,3613.53,Expense,North,Freelance,0:50:00,Card
+192,3/8/2024,9515.95,Income,West,Costco,1:00:00,Bank Transfer
+193,1/15/2024,4502.05,Income,East,Uber,12:27:00,Card
+194,2/15/2024,4697.69,Income,North,Local Market,17:53:00,UPI
+195,7/11/2024,3876.44,Expense,West,Local Market,13:35:00,UPI
+196,3/2/2024,1035.36,Expense,West,Local Market,18:23:00,Cash
+197,10/20/2024,2275.26,Income,North,Costco,8:43:00,Cash
+198,6/12/2024,3803.1,Income,South,Walmart,17:14:00,Bank Transfer
+199,3/20/2024,4659.97,Income,South,Uber,3:40:00,Card
+200,10/28/2024,7941.79,Income,South,Local Market,14:04:00,UPI
+201,9/12/2024,6643.59,Income,South,Freelance,3:54:00,Bank Transfer
+202,10/6/2024,9426.68,Income,East,Freelance,1:53:00,Card
+203,7/12/2024,2893.62,Income,South,Freelance,10:20:00,Card
+204,8/19/2024,6432.81,Income,South,Local Market,8:37:00,UPI
+205,8/30/2024,6584.22,Income,West,Local Market,13:21:00,Bank Transfer
+206,7/24/2024,6982.24,Income,North,Amazon,3:14:00,UPI
+207,9/24/2024,1994.01,Income,North,Local Market,17:41:00,UPI
+208,8/8/2024,3148.79,Income,East,Walmart,22:37:00,Cash
+209,2/25/2024,9299.75,Income,North,Costco,0:01:00,Cash
+210,2/29/2024,4966.76,Expense,North,Freelance,8:27:00,Cash
+211,4/28/2024,840.41,Expense,North,Freelance,1:32:00,Card
+212,11/7/2024,5310.09,Income,West,Amazon,11:54:00,UPI
+213,8/30/2024,2405.96,Income,East,Uber,19:16:00,UPI
+214,5/15/2024,7751.21,Income,West,Freelance,2:47:00,UPI
+215,8/10/2024,3534.29,Expense,West,Local Market,14:04:00,Card
+216,2/20/2024,3514.34,Expense,North,Local Market,6:18:00,Bank Transfer
+217,8/29/2024,3568.98,Income,West,Salary,20:31:00,Cash
+218,3/1/2024,3202.4,Expense,East,Costco,4:02:00,Bank Transfer
+219,3/10/2024,2018.13,Expense,East,Uber,19:18:00,UPI
+220,6/26/2024,7617.01,Income,East,Costco,7:50:00,Card
+221,3/15/2024,1783.77,Expense,North,Costco,10:50:00,Cash
+222,8/9/2024,1695.95,Income,East,Salary,21:54:00,Cash
+223,10/14/2024,1893.97,Expense,East,Salary,9:27:00,Cash
+224,7/25/2024,4455.56,Expense,West,Salary,6:25:00,Cash
+225,12/28/2024,9613.29,Income,East,Salary,2:40:00,Cash
+226,9/10/2024,3574.39,Income,North,Walmart,8:21:00,Cash
+227,7/19/2024,2027.02,Income,East,Freelance,1:50:00,Bank Transfer
+228,3/10/2024,3169.65,Expense,South,Salary,8:30:00,Bank Transfer
+229,2/16/2024,2964.08,Expense,West,Salary,19:30:00,Card
+230,1/12/2024,6560.42,Income,West,Local Market,14:40:00,Card
+231,6/12/2024,9279.48,Income,West,Freelance,8:32:00,Bank Transfer
+232,12/25/2024,3227.11,Expense,North,Amazon,1:41:00,Card
+233,1/6/2024,4053.14,Income,South,Costco,0:00:00,UPI
+234,5/30/2024,2749.3,Income,South,Local Market,15:44:00,Bank Transfer
+235,12/25/2024,2373.06,Expense,West,Uber,15:34:00,Bank Transfer
+236,9/30/2024,1187.28,Income,East,Salary,18:56:00,Card
+237,9/6/2024,1705.78,Income,South,Walmart,16:29:00,Bank Transfer
+238,12/3/2024,9230.39,Income,South,Costco,20:46:00,UPI
+239,6/2/2024,2962.44,Income,West,Salary,17:03:00,Bank Transfer
+240,8/19/2024,3916.16,Expense,South,Amazon,5:56:00,Cash
+241,5/16/2024,1538,Expense,West,Walmart,0:09:00,Bank Transfer
+242,8/20/2024,5453.06,Income,East,Salary,15:02:00,Bank Transfer
+243,9/8/2024,4877.61,Expense,West,Uber,10:14:00,Card
+244,9/12/2024,3394.43,Expense,West,Amazon,7:05:00,UPI
+245,5/1/2024,9027.32,Income,South,Salary,5:32:00,Bank Transfer
+246,11/8/2024,733.68,Expense,West,Local Market,22:16:00,Card
+247,10/27/2024,5003.49,Income,East,Uber,21:38:00,Bank Transfer
+248,1/27/2024,1362.14,Income,South,Uber,5:57:00,Card
+249,2/2/2024,6365.65,Income,East,Walmart,11:53:00,Card
+250,2/22/2024,363.41,Expense,North,Costco,20:50:00,UPI
+251,3/22/2024,1879.75,Expense,East,Amazon,4:00:00,Card
+252,8/6/2024,6119.89,Income,East,Uber,13:56:00,UPI
+253,9/23/2024,5503.33,Income,West,Costco,6:55:00,Card
+254,1/2/2024,8503.12,Income,East,Local Market,10:33:00,UPI
+255,7/25/2024,5757.36,Income,East,Costco,8:14:00,Bank Transfer
+256,10/16/2024,3910.91,Income,West,Costco,10:23:00,Card
+257,8/20/2024,3605.78,Income,West,Walmart,5:59:00,Card
+258,4/22/2024,4855.36,Expense,West,Uber,16:24:00,Card
+259,8/25/2024,9289.91,Income,South,Freelance,6:40:00,Cash
+260,1/18/2024,6259.58,Income,South,Freelance,7:45:00,Bank Transfer
+261,6/6/2024,1137.33,Income,West,Freelance,7:30:00,Bank Transfer
+262,10/10/2024,4391.82,Income,South,Costco,11:59:00,UPI
+263,3/23/2024,1476.54,Expense,South,Costco,4:21:00,Bank Transfer
+264,1/9/2024,2876.79,Income,South,Salary,0:21:00,Cash
+265,1/2/2024,3394.85,Expense,South,Costco,15:47:00,Cash
+266,5/3/2024,4968.11,Expense,East,Costco,13:36:00,Bank Transfer
+267,9/15/2024,8471.41,Income,East,Amazon,14:51:00,Cash
+268,10/29/2024,528.09,Expense,East,Salary,21:02:00,Bank Transfer
+269,9/19/2024,2607.01,Expense,South,Freelance,4:28:00,Bank Transfer
+270,5/5/2024,1278.18,Expense,North,Local Market,23:35:00,Bank Transfer
+271,7/1/2024,388.71,Expense,West,Freelance,4:31:00,UPI
+272,6/2/2024,2952.93,Expense,West,Amazon,13:27:00,Cash
+273,10/27/2024,3585.23,Income,South,Freelance,18:47:00,Cash
+274,8/20/2024,2133.63,Expense,North,Walmart,15:00:00,UPI
+275,11/9/2024,4244.33,Expense,East,Walmart,0:49:00,Card
+276,5/19/2024,431.43,Expense,West,Amazon,11:41:00,Bank Transfer
+277,2/5/2024,6355.5,Income,South,Costco,10:05:00,Cash
+278,9/21/2024,9886.61,Income,North,Walmart,11:11:00,Bank Transfer
+279,4/21/2024,9258.87,Income,South,Costco,1:07:00,Bank Transfer
+280,5/18/2024,6314.14,Income,South,Salary,14:23:00,Bank Transfer
+281,4/9/2024,4996.18,Income,North,Uber,12:24:00,UPI
+282,11/14/2024,1785.87,Income,East,Amazon,12:05:00,Bank Transfer
+283,12/13/2024,4883.25,Income,South,Uber,14:47:00,Card
+284,12/24/2024,4354.07,Expense,South,Salary,0:40:00,Card
+285,7/25/2024,2768.72,Income,North,Salary,21:35:00,Cash
+286,12/7/2024,1294.32,Expense,North,Freelance,4:16:00,UPI
+287,8/1/2024,8600.84,Income,South,Salary,9:56:00,UPI
+288,3/18/2024,8185.7,Income,South,Freelance,13:09:00,UPI
+289,3/2/2024,3288.9,Expense,North,Costco,8:03:00,Card
+290,4/23/2024,3844.93,Expense,West,Walmart,15:14:00,Card
+291,1/15/2024,3090.72,Expense,West,Amazon,6:57:00,Bank Transfer
+292,7/15/2024,5966.95,Income,South,Walmart,9:39:00,UPI
+293,2/21/2024,1323.76,Expense,South,Walmart,20:35:00,Cash
+294,10/29/2024,8190.34,Income,West,Freelance,9:13:00,Bank Transfer
+295,9/4/2024,3372.88,Expense,South,Costco,18:47:00,Bank Transfer
+296,7/16/2024,7326.48,Income,South,Uber,2:51:00,Card
+297,1/17/2024,8179.37,Income,South,Costco,21:04:00,Bank Transfer
+298,3/9/2024,3610.32,Expense,North,Walmart,3:27:00,Card
+299,8/20/2024,2888.51,Expense,South,Freelance,11:26:00,Bank Transfer
+300,3/26/2024,1012.48,Expense,North,Costco,18:20:00,Bank Transfer
+301,3/15/2024,731,Expense,South,Freelance,9:19:00,Bank Transfer
+302,8/9/2024,9403.81,Income,North,Freelance,7:47:00,Card
+303,10/13/2024,7505.89,Income,South,Local Market,13:12:00,UPI
+304,8/26/2024,455.16,Expense,North,Uber,12:36:00,UPI
+305,5/2/2024,3944.3,Expense,West,Salary,5:32:00,Card
+306,4/29/2024,4591.68,Expense,East,Uber,6:06:00,Cash
+307,10/30/2024,6905.94,Income,East,Uber,12:09:00,Cash
+308,11/12/2024,3403.97,Income,East,Local Market,20:40:00,Cash
+309,3/8/2024,3854.25,Income,North,Walmart,19:26:00,Bank Transfer
+310,3/24/2024,6867.72,Income,East,Local Market,10:15:00,Card
+311,5/27/2024,756.98,Expense,West,Costco,3:12:00,UPI
+312,2/23/2024,2174.94,Income,South,Uber,12:31:00,UPI
+313,12/9/2024,3497.13,Expense,North,Walmart,16:21:00,Cash
+314,12/1/2024,1903.39,Expense,North,Salary,14:04:00,Bank Transfer
+315,12/17/2024,4898.25,Expense,West,Costco,14:43:00,Bank Transfer
+316,10/30/2024,3249.03,Income,East,Costco,1:02:00,Card
+317,4/20/2024,3561.44,Expense,South,Uber,19:15:00,Card
+318,2/21/2024,2025.86,Expense,North,Walmart,14:05:00,Cash
+319,12/20/2024,1232.48,Expense,North,Local Market,20:34:00,Bank Transfer
+320,8/19/2024,4567.55,Income,South,Salary,9:39:00,Cash
+321,5/25/2024,212.04,Expense,North,Costco,4:12:00,Card
+322,4/14/2024,2814.66,Income,South,Amazon,20:42:00,UPI
+323,7/17/2024,1692.4,Expense,East,Local Market,21:57:00,Bank Transfer
+324,7/23/2024,612.87,Expense,South,Uber,3:06:00,Cash
+325,12/4/2024,1632.43,Income,East,Local Market,20:05:00,UPI
+326,10/24/2024,3789.71,Expense,West,Amazon,0:42:00,UPI
+327,8/1/2024,9747.98,Income,West,Freelance,22:42:00,Cash
+328,10/28/2024,6879.51,Income,East,Walmart,21:10:00,UPI
+329,8/21/2024,3112.78,Expense,South,Uber,14:31:00,Bank Transfer
+330,1/7/2024,2928.72,Expense,South,Salary,3:25:00,Bank Transfer
+331,4/3/2024,4463.68,Income,North,Costco,4:30:00,Bank Transfer
+332,12/4/2024,4100.57,Expense,East,Costco,8:36:00,Bank Transfer
+333,2/11/2024,793.52,Expense,South,Salary,14:32:00,UPI
+334,7/20/2024,3242.8,Expense,East,Amazon,18:32:00,Bank Transfer
+335,9/9/2024,1479.72,Income,South,Walmart,17:26:00,UPI
+336,8/9/2024,4021.93,Expense,West,Amazon,0:29:00,UPI
+337,10/20/2024,2629.13,Income,South,Salary,10:59:00,Cash
+338,10/8/2024,6033.97,Income,East,Salary,23:54:00,Bank Transfer
+339,4/22/2024,1727.35,Income,West,Uber,17:18:00,UPI
+340,5/31/2024,6754.73,Income,South,Amazon,6:37:00,Bank Transfer
+341,5/31/2024,2349.17,Expense,East,Amazon,17:03:00,UPI
+342,9/18/2024,531.69,Expense,North,Amazon,5:41:00,Bank Transfer
+343,12/28/2024,2338.24,Expense,South,Uber,9:25:00,Card
+344,7/15/2024,841.9,Expense,South,Local Market,17:08:00,Bank Transfer
+345,9/29/2024,4183.24,Expense,South,Freelance,13:12:00,UPI
+346,10/25/2024,7339.92,Income,South,Amazon,21:53:00,Card
+347,12/29/2024,1078.95,Expense,East,Walmart,20:09:00,Cash
+348,6/7/2024,2499.6,Expense,South,Local Market,3:06:00,Cash
+349,6/10/2024,4846.46,Expense,West,Amazon,20:27:00,Bank Transfer
+350,1/15/2024,2240.91,Expense,East,Walmart,5:07:00,Cash
+351,9/18/2024,3690.86,Expense,East,Walmart,18:29:00,Card
+352,3/1/2024,377.8,Expense,East,Local Market,9:16:00,Card
+353,7/22/2024,3031.22,Expense,North,Local Market,22:22:00,Bank Transfer
+354,4/8/2024,4706.05,Income,West,Walmart,2:36:00,Cash
+355,3/19/2024,1540.49,Expense,North,Walmart,5:55:00,Card
+356,2/18/2024,3657.47,Expense,North,Freelance,3:48:00,Cash
+357,5/2/2024,714.47,Expense,West,Costco,15:03:00,UPI
+358,5/3/2024,2815.83,Expense,North,Local Market,20:06:00,Cash
+359,11/30/2024,5691,Income,West,Local Market,6:01:00,Card
+360,10/29/2024,2874.26,Expense,North,Uber,15:45:00,UPI
+361,10/2/2024,2304.52,Income,East,Walmart,4:58:00,Cash
+362,4/16/2024,2459.11,Expense,West,Costco,9:01:00,Card
+363,3/22/2024,2252.89,Expense,South,Uber,2:12:00,Bank Transfer
+364,6/1/2024,111.86,Expense,West,Costco,7:46:00,UPI
+365,3/23/2024,628.17,Expense,West,Salary,18:00:00,Cash
+366,3/24/2024,4060.7,Expense,North,Freelance,4:23:00,Cash
+367,12/23/2024,6134.66,Income,East,Uber,5:08:00,Bank Transfer
+368,4/27/2024,3189.44,Income,South,Local Market,21:40:00,Bank Transfer
+369,8/10/2024,8459.11,Income,East,Amazon,17:25:00,Bank Transfer
+370,5/23/2024,6278.17,Income,West,Costco,0:33:00,Cash
+371,3/12/2024,6604.95,Income,West,Local Market,19:42:00,Cash
+372,9/27/2024,264.33,Expense,North,Costco,22:13:00,Card
+373,5/2/2024,1888.82,Expense,South,Amazon,13:55:00,Card
+374,1/26/2024,4893.57,Expense,South,Salary,17:32:00,UPI
+375,4/25/2024,5206.94,Income,West,Salary,1:43:00,Bank Transfer
+376,7/15/2024,1493.44,Expense,South,Amazon,12:35:00,Card
+377,7/17/2024,1605.15,Expense,West,Local Market,3:27:00,UPI
+378,11/12/2024,4363.58,Expense,West,Uber,16:45:00,Card
+379,12/3/2024,1921.31,Expense,West,Salary,18:09:00,Card
+380,6/18/2024,4621.13,Expense,East,Amazon,10:32:00,Card
+381,4/28/2024,4876.69,Income,North,Costco,3:16:00,Bank Transfer
+382,11/9/2024,6498.06,Income,South,Salary,20:08:00,Card
+383,1/12/2024,1632.44,Income,East,Costco,22:37:00,Cash
+384,4/1/2024,3553.88,Expense,South,Uber,10:35:00,Card
+385,5/22/2024,6891.49,Income,West,Uber,9:03:00,UPI
+386,9/19/2024,1544.89,Expense,North,Freelance,6:54:00,Card
+387,6/9/2024,4794.52,Income,West,Salary,7:26:00,Bank Transfer
+388,10/18/2024,8762.64,Income,West,Freelance,21:07:00,Card
+389,4/23/2024,3262.67,Expense,West,Costco,21:51:00,Card
+390,12/1/2024,9177.67,Income,West,Salary,4:45:00,UPI
+391,8/17/2024,8680.36,Income,North,Salary,5:36:00,Bank Transfer
+392,8/22/2024,2961.7,Income,South,Walmart,13:00:00,Bank Transfer
+393,2/23/2024,4454.1,Income,North,Local Market,1:23:00,Bank Transfer
+394,11/16/2024,1161.31,Income,North,Uber,22:16:00,Bank Transfer
+395,12/3/2024,6368.7,Income,West,Uber,13:05:00,Bank Transfer
+396,6/15/2024,1129.98,Income,South,Walmart,19:24:00,Bank Transfer
+397,7/26/2024,9562.34,Income,South,Walmart,1:23:00,Card
+398,4/6/2024,3593.77,Income,East,Local Market,20:47:00,Bank Transfer
+399,11/27/2024,3140.33,Income,South,Walmart,0:55:00,Card
+400,8/27/2024,4721.7,Income,South,Costco,3:30:00,Bank Transfer
+401,10/17/2024,4465.02,Income,East,Uber,15:00:00,UPI
+402,1/31/2024,7897.22,Income,South,Walmart,12:55:00,UPI
+403,2/15/2024,1224.81,Income,North,Walmart,0:52:00,Bank Transfer
+404,9/2/2024,309.38,Expense,West,Salary,8:05:00,Bank Transfer
+405,2/29/2024,102.35,Expense,North,Salary,3:25:00,Bank Transfer
+406,1/27/2024,1587.64,Income,West,Uber,17:39:00,Cash
+407,8/13/2024,692.64,Expense,East,Walmart,18:38:00,Card
+408,5/1/2024,6281.83,Income,South,Walmart,9:07:00,Cash
+409,3/30/2024,1926.73,Income,East,Freelance,12:43:00,Card
+410,6/4/2024,6453.79,Income,North,Local Market,22:24:00,Cash
+411,3/16/2024,246.77,Expense,East,Amazon,10:57:00,UPI
+412,7/16/2024,1023.34,Expense,South,Salary,11:59:00,Bank Transfer
+413,12/15/2024,1702.71,Expense,East,Salary,3:43:00,UPI
+414,7/27/2024,3342.98,Income,East,Amazon,22:33:00,Cash
+415,9/2/2024,9597.33,Income,North,Uber,11:48:00,Bank Transfer
+416,10/5/2024,9384.43,Income,East,Costco,1:36:00,Cash
+417,3/17/2024,4580.18,Expense,South,Costco,20:06:00,Card
+418,3/2/2024,6133.97,Income,East,Local Market,1:46:00,Card
+419,8/23/2024,8621.44,Income,North,Salary,12:32:00,Bank Transfer
+420,9/24/2024,4404.34,Expense,North,Local Market,16:38:00,Card
+421,4/19/2024,3236.42,Expense,West,Freelance,20:29:00,Card
+422,11/4/2024,2624.48,Expense,North,Salary,16:08:00,UPI
+423,5/23/2024,6378.4,Income,East,Freelance,1:45:00,Cash
+424,6/1/2024,2311.43,Expense,South,Walmart,16:01:00,Bank Transfer
+425,6/4/2024,3020.18,Income,East,Local Market,23:41:00,Cash
+426,5/21/2024,2692.04,Expense,East,Local Market,6:44:00,Card
+427,11/14/2024,1526.94,Income,East,Amazon,23:05:00,Card
+428,10/12/2024,3778.54,Expense,North,Walmart,3:40:00,UPI
+429,4/30/2024,3633.02,Income,East,Costco,7:19:00,Cash
+430,3/3/2024,6792.63,Income,West,Costco,7:13:00,Cash
+431,12/29/2024,2395.73,Expense,North,Freelance,4:26:00,Cash
+432,10/28/2024,8633.18,Income,South,Salary,1:55:00,UPI
+433,7/20/2024,5684.2,Income,West,Freelance,19:01:00,Bank Transfer
+434,9/16/2024,8539.6,Income,East,Walmart,5:58:00,Card
+435,3/14/2024,596.23,Expense,West,Costco,2:12:00,Card
+436,9/16/2024,4947.62,Expense,South,Walmart,12:24:00,Card
+437,1/14/2024,2372.51,Expense,North,Walmart,11:34:00,Card
+438,4/11/2024,4586.95,Income,North,Freelance,14:11:00,Cash
+439,7/7/2024,3420.07,Expense,South,Salary,4:27:00,Card
+440,6/25/2024,2628.44,Income,South,Uber,0:53:00,Cash
+441,9/5/2024,4347.05,Income,North,Local Market,22:13:00,UPI
+442,10/23/2024,9004.04,Income,South,Walmart,15:22:00,Bank Transfer
+443,3/18/2024,1476.41,Expense,East,Costco,9:44:00,Card
+444,2/16/2024,4452.21,Expense,East,Uber,23:48:00,Card
+445,1/16/2024,4810.19,Expense,North,Amazon,21:50:00,UPI
+446,4/6/2024,3959.75,Expense,East,Freelance,3:54:00,Bank Transfer
+447,4/21/2024,2270.01,Expense,South,Salary,18:00:00,Bank Transfer
+448,8/28/2024,6254.58,Income,West,Costco,5:27:00,UPI
+449,11/19/2024,1298.37,Expense,North,Costco,17:10:00,UPI
+450,2/22/2024,3261,Income,South,Local Market,20:31:00,Bank Transfer
+451,12/24/2024,1494.09,Expense,West,Local Market,4:41:00,UPI
+452,2/21/2024,2674.34,Income,South,Amazon,16:02:00,Bank Transfer
+453,4/19/2024,7581.83,Income,South,Local Market,23:05:00,UPI
+454,5/20/2024,5204.57,Income,North,Amazon,20:24:00,Bank Transfer
+455,10/31/2024,863.09,Expense,North,Walmart,5:46:00,Bank Transfer
+456,12/13/2024,2033.78,Expense,East,Local Market,19:04:00,Card
+457,3/2/2024,1387.27,Income,North,Amazon,17:48:00,UPI
+458,7/18/2024,4494.02,Expense,West,Walmart,19:37:00,UPI
+459,11/27/2024,2201.13,Expense,West,Local Market,1:16:00,Card
+460,1/9/2024,1487.43,Expense,East,Walmart,2:22:00,Cash
+461,12/5/2024,8204.57,Income,East,Amazon,13:34:00,UPI
+462,7/20/2024,2685.98,Expense,South,Uber,7:23:00,Card
+463,1/3/2024,4905.98,Expense,North,Freelance,8:30:00,Cash
+464,12/29/2024,1753.82,Expense,North,Freelance,9:53:00,Card
+465,9/2/2024,4518,Expense,South,Freelance,11:21:00,Cash
+466,2/26/2024,6070.71,Income,West,Salary,7:44:00,Bank Transfer
+467,1/8/2024,9821.63,Income,East,Amazon,0:51:00,Cash
+468,6/22/2024,6713.64,Income,North,Uber,16:57:00,UPI
+469,4/17/2024,2644.64,Expense,North,Local Market,4:16:00,Cash
+470,8/9/2024,8245.59,Income,West,Walmart,1:39:00,Card
+471,3/7/2024,1812.41,Income,South,Costco,22:28:00,UPI
+472,10/24/2024,8559.49,Income,West,Costco,9:13:00,UPI
+473,10/4/2024,1311.33,Expense,North,Uber,14:49:00,Cash
+474,12/19/2024,8589.49,Income,West,Walmart,6:32:00,Bank Transfer
+475,9/20/2024,908.81,Expense,East,Uber,10:51:00,Bank Transfer
+476,4/3/2024,2159.13,Expense,South,Salary,16:04:00,UPI
+477,2/2/2024,5854.22,Income,South,Local Market,18:44:00,Bank Transfer
+478,4/23/2024,690.52,Expense,West,Amazon,11:40:00,Card
+479,10/3/2024,2401.63,Income,West,Uber,13:19:00,UPI
+480,3/21/2024,3972.03,Income,West,Costco,6:55:00,Card
+481,10/6/2024,2605.53,Expense,West,Local Market,11:20:00,Cash
+482,9/7/2024,4217.1,Expense,South,Local Market,0:46:00,UPI
+483,5/15/2024,4779.12,Income,East,Local Market,12:40:00,UPI
+484,5/5/2024,8873.84,Income,East,Costco,13:46:00,Cash
+485,9/5/2024,2263.5,Income,North,Walmart,8:20:00,Cash
+486,1/26/2024,8832.52,Income,East,Local Market,5:37:00,Cash
+487,4/28/2024,1530.18,Expense,North,Uber,21:49:00,Cash
+488,6/27/2024,126.97,Expense,East,Uber,2:41:00,Bank Transfer
+489,8/8/2024,7697.76,Income,East,Uber,6:27:00,Bank Transfer
+490,7/7/2024,990.91,Expense,West,Amazon,11:47:00,UPI
+491,12/23/2024,5124.76,Income,North,Uber,15:58:00,Bank Transfer
+492,1/16/2024,4093.62,Expense,South,Amazon,7:34:00,Cash
+493,3/16/2024,7227.37,Income,South,Costco,9:37:00,Bank Transfer
+494,8/8/2024,1086.23,Expense,East,Local Market,16:02:00,Cash
+495,7/31/2024,2323.6,Expense,East,Amazon,18:16:00,Cash
+496,7/19/2024,4093.46,Expense,South,Freelance,22:07:00,Bank Transfer
+497,9/5/2024,1622.99,Expense,North,Walmart,3:30:00,UPI
+498,12/11/2024,410.73,Expense,South,Local Market,1:01:00,UPI
+499,10/2/2024,1646.99,Income,South,Salary,15:07:00,Bank Transfer
+500,9/12/2024,2423.38,Expense,East,Costco,1:10:00,UPI
+501,5/7/2024,2552.17,Expense,East,Salary,4:30:00,UPI
+502,2/10/2024,2170.82,Expense,South,Walmart,1:02:00,Bank Transfer
+503,6/24/2024,2434.54,Expense,West,Salary,7:56:00,Bank Transfer
+504,8/30/2024,1071.34,Income,West,Local Market,6:09:00,Bank Transfer
+505,4/30/2024,3461.76,Income,East,Local Market,9:52:00,UPI
+506,8/24/2024,2486.19,Income,South,Local Market,13:38:00,UPI
+507,12/27/2024,2290.65,Income,East,Amazon,6:35:00,UPI
+508,3/29/2024,8114.43,Income,West,Salary,21:42:00,UPI
+509,9/16/2024,1213.58,Expense,West,Freelance,21:31:00,UPI
+510,6/28/2024,4920.03,Expense,North,Freelance,17:30:00,Card
+511,4/9/2024,3533.17,Income,West,Salary,10:41:00,Bank Transfer
+512,7/12/2024,4209.32,Income,South,Freelance,8:26:00,Cash
+513,8/24/2024,5159.59,Income,West,Local Market,6:11:00,Card
+514,10/8/2024,4049.73,Expense,North,Local Market,3:45:00,Cash
+515,9/22/2024,2269.06,Expense,West,Salary,22:46:00,Bank Transfer
+516,12/23/2024,2839.11,Expense,West,Freelance,1:12:00,Cash
+517,9/16/2024,3235.56,Income,South,Costco,6:41:00,UPI
+518,5/23/2024,3607,Expense,East,Amazon,20:23:00,Cash
+519,6/6/2024,4066.36,Expense,North,Local Market,7:10:00,Cash
+520,1/6/2024,3007.81,Expense,North,Salary,16:31:00,UPI
+521,1/16/2024,1585.07,Expense,West,Costco,11:57:00,Card
+522,1/22/2024,4163.55,Expense,West,Uber,0:12:00,UPI
+523,12/25/2024,7181.4,Income,South,Local Market,2:47:00,Bank Transfer
+524,3/1/2024,9472.78,Income,North,Costco,2:36:00,Card
+525,7/10/2024,3083.45,Expense,East,Salary,22:46:00,Bank Transfer
+526,12/2/2024,761.59,Expense,South,Costco,6:59:00,UPI
+527,3/31/2024,6032.8,Income,South,Salary,3:41:00,Card
+528,5/3/2024,1014.74,Expense,West,Uber,11:19:00,Bank Transfer
+529,12/16/2024,6528.13,Income,South,Freelance,5:59:00,UPI
+530,1/7/2024,1934.38,Income,South,Local Market,13:30:00,Card
+531,4/3/2024,146.95,Expense,West,Uber,9:28:00,Card
+532,11/14/2024,9110.97,Income,South,Salary,11:49:00,Cash
+533,8/6/2024,5833.45,Income,North,Uber,18:37:00,Cash
+534,3/1/2024,5094.27,Income,West,Local Market,16:50:00,Cash
+535,12/20/2024,2861.9,Income,East,Local Market,10:28:00,Card
+536,11/2/2024,7491.29,Income,North,Local Market,5:21:00,Card
+537,6/20/2024,1166.92,Expense,East,Amazon,20:13:00,Bank Transfer
+538,3/22/2024,2884.6,Income,North,Amazon,20:41:00,Cash
+539,6/1/2024,2654.59,Expense,South,Freelance,11:57:00,Card
+540,3/29/2024,4335.52,Expense,South,Uber,13:45:00,Cash
+541,2/20/2024,9813.6,Income,South,Freelance,10:52:00,Cash
+542,6/9/2024,1472.44,Expense,East,Costco,19:34:00,Bank Transfer
+543,4/6/2024,4308.8,Expense,South,Local Market,2:25:00,Cash
+544,2/16/2024,3881.06,Expense,East,Salary,13:01:00,Cash
+545,11/25/2024,2907,Income,West,Freelance,11:50:00,UPI
+546,3/31/2024,3712.72,Income,East,Local Market,14:00:00,UPI
+547,8/26/2024,2407.84,Expense,South,Amazon,5:51:00,Bank Transfer
+548,2/4/2024,3658.9,Expense,West,Local Market,17:06:00,Bank Transfer
+549,1/30/2024,2445.38,Income,East,Salary,23:15:00,Cash
+550,11/23/2024,5183.08,Income,West,Salary,9:35:00,UPI
+551,10/13/2024,9590.41,Income,East,Uber,1:33:00,Bank Transfer
+552,5/26/2024,3845.88,Expense,East,Costco,0:26:00,Bank Transfer
+553,3/27/2024,4367.56,Income,West,Uber,17:24:00,Card
+554,1/21/2024,5880.89,Income,South,Local Market,17:16:00,Bank Transfer
+555,5/20/2024,1032.81,Income,North,Salary,22:36:00,Bank Transfer
+556,10/1/2024,1714.41,Expense,North,Uber,11:10:00,UPI
+557,12/30/2024,1301.91,Expense,North,Amazon,7:53:00,Card
+558,5/12/2024,2588.65,Income,South,Local Market,20:07:00,Card
+559,7/18/2024,134.28,Expense,North,Local Market,3:43:00,UPI
+560,12/17/2024,9185.74,Income,South,Walmart,2:20:00,Bank Transfer
+561,11/10/2024,755.21,Expense,West,Amazon,13:25:00,Card
+562,7/6/2024,3284.04,Expense,East,Amazon,7:54:00,UPI
+563,11/24/2024,1701.67,Expense,East,Local Market,12:45:00,Cash
+564,12/28/2024,3580.2,Expense,South,Local Market,18:20:00,Bank Transfer
+565,6/20/2024,2396.45,Expense,West,Amazon,16:40:00,Cash
+566,1/31/2024,2439.72,Income,East,Uber,22:45:00,Bank Transfer
+567,2/14/2024,4476.89,Income,East,Freelance,18:39:00,Cash
+568,9/16/2024,763.09,Expense,South,Local Market,4:54:00,UPI
+569,9/4/2024,1148.36,Expense,East,Freelance,17:10:00,Card
+570,11/12/2024,8829.96,Income,North,Walmart,21:39:00,UPI
+571,11/6/2024,5888.19,Income,North,Costco,6:20:00,Bank Transfer
+572,6/7/2024,9298.47,Income,South,Uber,1:38:00,UPI
+573,5/24/2024,3714.74,Income,South,Uber,4:52:00,Card
+574,12/29/2024,3407.07,Income,West,Salary,13:02:00,Bank Transfer
+575,4/4/2024,8199.86,Income,North,Uber,4:10:00,UPI
+576,11/22/2024,150.16,Expense,East,Costco,23:24:00,Cash
+577,8/29/2024,4599.66,Expense,West,Freelance,2:10:00,Bank Transfer
+578,11/7/2024,8002.17,Income,West,Freelance,21:12:00,Card
+579,11/24/2024,2871.01,Expense,East,Amazon,12:08:00,Bank Transfer
+580,7/30/2024,1102.64,Expense,South,Walmart,16:45:00,Cash
+581,2/29/2024,2416.13,Expense,North,Local Market,9:14:00,Cash
+582,11/14/2024,1874.76,Expense,East,Walmart,6:42:00,Bank Transfer
+583,5/29/2024,715.68,Expense,South,Uber,4:44:00,Bank Transfer
+584,6/16/2024,837.84,Expense,North,Freelance,10:20:00,Bank Transfer
+585,5/8/2024,7276.31,Income,East,Freelance,0:54:00,UPI
+586,2/15/2024,3056.32,Expense,West,Amazon,1:09:00,Cash
+587,8/25/2024,1202.99,Income,West,Amazon,9:08:00,Card
+588,9/29/2024,654.85,Expense,West,Uber,16:06:00,Cash
+589,11/14/2024,4220.88,Expense,East,Uber,5:57:00,Cash
+590,7/20/2024,192.22,Expense,North,Costco,17:44:00,UPI
+591,5/6/2024,4270.45,Income,South,Local Market,1:11:00,UPI
+592,7/5/2024,1067.39,Expense,East,Amazon,6:04:00,Cash
+593,1/28/2024,3076.36,Income,North,Walmart,9:09:00,Cash
+594,4/28/2024,2640.87,Expense,West,Uber,17:10:00,Cash
+595,3/15/2024,6834.21,Income,East,Uber,2:49:00,Bank Transfer
+596,7/26/2024,9861.42,Income,West,Walmart,20:40:00,Cash
+597,10/8/2024,441.34,Expense,South,Uber,2:05:00,Cash
+598,1/2/2024,3827.88,Income,North,Amazon,10:29:00,UPI
+599,8/7/2024,2896.15,Expense,East,Salary,3:52:00,Cash
+600,3/15/2024,4660.45,Expense,North,Salary,12:04:00,Bank Transfer
+601,8/24/2024,272.37,Expense,North,Local Market,0:53:00,UPI
+602,10/14/2024,3692.65,Expense,East,Walmart,11:09:00,Card
+603,9/28/2024,9332.73,Income,East,Walmart,16:47:00,Cash
+604,8/20/2024,6228.47,Income,West,Costco,1:54:00,Card
+605,11/1/2024,2576.97,Expense,South,Walmart,16:30:00,Bank Transfer
+606,3/9/2024,9004.22,Income,South,Costco,1:31:00,Card
+607,5/9/2024,552.29,Expense,South,Walmart,1:22:00,Bank Transfer
+608,7/1/2024,8019.96,Income,West,Salary,0:04:00,Card
+609,5/31/2024,395.84,Expense,South,Walmart,8:09:00,Card
+610,7/27/2024,3134.52,Expense,West,Freelance,1:08:00,Bank Transfer
+611,11/24/2024,9797.56,Income,East,Amazon,19:49:00,Card
+612,3/19/2024,848.85,Expense,North,Freelance,19:50:00,Bank Transfer
+613,9/10/2024,4543.88,Expense,East,Walmart,11:01:00,Cash
+614,8/8/2024,4107.75,Expense,East,Freelance,22:38:00,Cash
+615,6/28/2024,4150.82,Expense,West,Costco,10:39:00,Bank Transfer
+616,12/19/2024,4287.14,Expense,North,Walmart,11:05:00,Cash
+617,7/6/2024,7575.45,Income,East,Amazon,19:52:00,UPI
+618,1/21/2024,9560.4,Income,East,Costco,21:05:00,Card
+619,11/23/2024,4719.54,Expense,North,Amazon,7:07:00,Cash
+620,9/12/2024,3779.75,Expense,South,Freelance,2:16:00,Bank Transfer
+621,1/10/2024,2950.59,Income,South,Uber,22:23:00,Cash
+622,11/15/2024,180.71,Expense,West,Costco,21:38:00,UPI
+623,8/31/2024,8369.73,Income,East,Uber,11:28:00,Card
+624,9/2/2024,6066.14,Income,West,Freelance,14:43:00,Cash
+625,9/3/2024,9471.99,Income,North,Freelance,13:16:00,Cash
+626,9/20/2024,4095.25,Expense,North,Salary,4:50:00,UPI
+627,3/12/2024,7833.81,Income,West,Walmart,7:54:00,Cash
+628,10/22/2024,352.87,Expense,East,Walmart,16:05:00,Card
+629,12/26/2024,3048.13,Expense,North,Uber,2:44:00,UPI
+630,10/5/2024,784.25,Expense,North,Walmart,3:08:00,Bank Transfer
+631,1/10/2024,3611.14,Expense,East,Freelance,4:52:00,Card
+632,10/18/2024,4419.91,Expense,North,Walmart,15:58:00,Bank Transfer
+633,1/10/2024,2366.97,Expense,North,Salary,20:39:00,Bank Transfer
+634,4/15/2024,4022.1,Income,West,Local Market,19:34:00,Bank Transfer
+635,7/20/2024,397.32,Expense,North,Local Market,13:14:00,Card
+636,10/13/2024,5535.31,Income,East,Costco,19:21:00,UPI
+637,12/16/2024,2408.78,Income,West,Uber,1:50:00,Card
+638,3/5/2024,4049.38,Income,West,Freelance,19:46:00,UPI
+639,4/23/2024,231.35,Expense,West,Costco,19:47:00,UPI
+640,6/7/2024,4218.45,Expense,West,Costco,0:29:00,Bank Transfer
+641,8/31/2024,6756.35,Income,North,Costco,18:23:00,UPI
+642,2/6/2024,3502.23,Income,North,Walmart,14:48:00,Bank Transfer
+643,9/6/2024,3762.47,Expense,North,Freelance,21:54:00,UPI
+644,12/11/2024,591.36,Expense,East,Walmart,19:38:00,Cash
+645,1/3/2024,4711.88,Expense,West,Uber,9:32:00,Bank Transfer
+646,4/8/2024,1248.68,Income,North,Walmart,19:33:00,UPI
+647,2/17/2024,1541.53,Income,South,Amazon,3:12:00,Card
+648,9/7/2024,3090.49,Expense,North,Costco,8:53:00,UPI
+649,6/2/2024,2298.4,Income,South,Amazon,9:26:00,Cash
+650,5/26/2024,2719.63,Income,North,Local Market,22:18:00,Cash
+651,9/11/2024,4851.3,Income,West,Local Market,17:29:00,Card
+652,8/29/2024,3502.04,Income,North,Walmart,9:46:00,UPI
+653,9/24/2024,9316.96,Income,North,Freelance,6:20:00,UPI
+654,9/24/2024,1992.16,Income,East,Walmart,14:13:00,Bank Transfer
+655,3/26/2024,6373.99,Income,West,Local Market,13:25:00,UPI
+656,1/13/2024,1151.49,Expense,West,Freelance,0:20:00,Cash
+657,11/18/2024,1848.71,Expense,South,Costco,9:19:00,Cash
+658,5/7/2024,3261.42,Income,West,Local Market,14:38:00,UPI
+659,1/20/2024,4906.49,Expense,South,Amazon,22:21:00,Card
+660,6/5/2024,1075.83,Expense,West,Amazon,23:13:00,UPI
+661,2/11/2024,2785.77,Income,North,Uber,11:36:00,Cash
+662,11/3/2024,9262.17,Income,North,Uber,11:04:00,Cash
+663,10/30/2024,7745.78,Income,South,Uber,3:16:00,UPI
+664,5/9/2024,7689.8,Income,East,Amazon,12:53:00,Cash
+665,11/5/2024,4888.71,Expense,West,Salary,11:32:00,Card
+666,6/4/2024,4964.88,Income,East,Costco,22:47:00,UPI
+667,8/20/2024,4582.28,Expense,East,Amazon,5:36:00,UPI
+668,3/1/2024,7265.74,Income,East,Walmart,16:53:00,Bank Transfer
+669,11/17/2024,198.83,Expense,South,Walmart,12:44:00,Bank Transfer
+670,11/13/2024,5213.64,Income,South,Amazon,16:11:00,Cash
+671,9/2/2024,2005.46,Expense,North,Costco,14:32:00,Bank Transfer
+672,4/23/2024,7671.25,Income,East,Uber,3:53:00,Card
+673,8/16/2024,1365.52,Expense,South,Salary,22:01:00,UPI
+674,10/28/2024,3503.08,Expense,North,Uber,6:42:00,Card
+675,6/15/2024,1929.81,Income,East,Uber,19:03:00,Bank Transfer
+676,1/20/2024,3492.11,Expense,North,Salary,11:22:00,Card
+677,3/25/2024,2314.98,Expense,East,Local Market,3:16:00,Bank Transfer
+678,12/4/2024,1226.78,Income,West,Uber,3:03:00,Card
+679,8/13/2024,7125.5,Income,West,Salary,2:42:00,Bank Transfer
+680,1/27/2024,4643.66,Income,East,Salary,17:35:00,Cash
+681,2/7/2024,3010.93,Expense,East,Freelance,21:00:00,Card
+682,1/9/2024,1920.43,Expense,East,Salary,17:11:00,Cash
+683,6/26/2024,2213.54,Income,South,Amazon,10:18:00,Cash
+684,12/25/2024,5136.74,Income,South,Uber,5:13:00,Card
+685,10/25/2024,2636.46,Expense,West,Local Market,19:50:00,Bank Transfer
+686,4/28/2024,2089.41,Expense,North,Salary,2:32:00,UPI
+687,8/28/2024,8080.9,Income,South,Local Market,21:37:00,Bank Transfer
+688,4/7/2024,3193.61,Expense,West,Local Market,18:39:00,UPI
+689,11/6/2024,6736.66,Income,East,Freelance,5:21:00,UPI
+690,10/8/2024,5685.88,Income,West,Walmart,23:21:00,Cash
+691,1/25/2024,9780.07,Income,South,Uber,0:41:00,Cash
+692,9/26/2024,1090.23,Income,West,Walmart,13:16:00,Card
+693,10/13/2024,1155.23,Expense,North,Freelance,9:33:00,Cash
+694,2/6/2024,3859.03,Income,South,Salary,10:35:00,Cash
+695,3/28/2024,1855.01,Income,South,Costco,20:47:00,Cash
+696,2/24/2024,9480.41,Income,West,Salary,11:24:00,Cash
+697,1/2/2024,2165.32,Expense,South,Salary,20:38:00,Cash
+698,2/19/2024,795.73,Expense,East,Freelance,12:18:00,Cash
+699,4/5/2024,7532.29,Income,West,Walmart,5:53:00,Card
+700,4/6/2024,4076.98,Income,West,Salary,13:50:00,UPI
+701,7/23/2024,4090.46,Income,South,Local Market,21:11:00,UPI
+702,1/27/2024,1319.81,Income,West,Costco,5:13:00,UPI
+703,9/12/2024,4012.65,Income,North,Freelance,12:11:00,UPI
+704,12/4/2024,7129.98,Income,South,Costco,18:23:00,Card
+705,10/23/2024,1654.62,Expense,North,Freelance,1:50:00,Cash
+706,1/24/2024,2492.13,Expense,South,Salary,14:09:00,UPI
+707,6/11/2024,3253.67,Expense,West,Costco,8:36:00,UPI
+708,1/8/2024,2947.7,Expense,East,Uber,18:50:00,Cash
+709,2/14/2024,9513.28,Income,North,Amazon,18:02:00,Bank Transfer
+710,12/11/2024,2058.08,Expense,North,Local Market,4:40:00,Bank Transfer
+711,3/14/2024,3786.95,Expense,North,Costco,16:15:00,Cash
+712,2/15/2024,3947.76,Income,West,Freelance,13:53:00,Bank Transfer
+713,12/15/2024,413.44,Expense,East,Walmart,2:41:00,Card
+714,11/4/2024,7395.58,Income,South,Amazon,12:43:00,Cash
+715,1/20/2024,7202.93,Income,North,Local Market,12:15:00,Card
+716,4/6/2024,2848.4,Expense,South,Walmart,20:43:00,Bank Transfer
+717,6/26/2024,4092.95,Expense,South,Freelance,11:12:00,UPI
+718,9/24/2024,8999.56,Income,South,Local Market,22:09:00,Cash
+719,10/13/2024,2418.12,Income,West,Walmart,18:23:00,UPI
+720,7/7/2024,4180.16,Expense,North,Costco,6:35:00,Cash
+721,9/30/2024,6598.91,Income,East,Amazon,8:22:00,Cash
+722,5/14/2024,5492.25,Income,South,Salary,16:57:00,Cash
+723,8/10/2024,6006.54,Income,East,Salary,11:49:00,Bank Transfer
+724,7/15/2024,738.8,Expense,South,Costco,8:42:00,UPI
+725,11/1/2024,6774.77,Income,East,Costco,19:01:00,UPI
+726,9/10/2024,9771.58,Income,West,Salary,4:57:00,UPI
+727,1/26/2024,3732.87,Income,North,Local Market,18:16:00,Card
+728,6/2/2024,7960.13,Income,West,Costco,5:46:00,UPI
+729,9/20/2024,1692.9,Expense,East,Costco,17:59:00,UPI
+730,1/10/2024,1818.68,Expense,South,Freelance,6:39:00,Card
+731,8/19/2024,3772.87,Expense,North,Amazon,21:56:00,Card
+732,3/5/2024,3099.65,Expense,West,Uber,6:32:00,Cash
+733,7/27/2024,1572.82,Expense,South,Walmart,6:52:00,Card
+734,4/26/2024,726.02,Expense,North,Walmart,20:24:00,UPI
+735,4/1/2024,3089.46,Income,West,Freelance,1:01:00,Bank Transfer
+736,9/24/2024,9888.02,Income,South,Walmart,18:45:00,Cash
+737,11/22/2024,208.81,Expense,West,Local Market,13:17:00,Cash
+738,2/29/2024,3913.54,Income,East,Amazon,17:04:00,Bank Transfer
+739,3/5/2024,1778.01,Income,West,Uber,4:31:00,UPI
+740,5/10/2024,4623.53,Income,East,Uber,8:55:00,Cash
+741,2/13/2024,2765.45,Expense,West,Salary,3:37:00,Bank Transfer
+742,9/19/2024,2589.62,Expense,East,Salary,13:46:00,Card
+743,12/7/2024,5249.57,Income,North,Costco,7:35:00,Card
+744,12/7/2024,3362.35,Income,North,Walmart,20:48:00,Cash
+745,10/11/2024,9615.93,Income,West,Uber,15:33:00,Card
+746,6/29/2024,1952.99,Expense,East,Salary,3:23:00,Card
+747,3/21/2024,6814.74,Income,South,Local Market,0:33:00,Cash
+748,4/29/2024,2980.54,Expense,North,Amazon,18:37:00,Card
+749,1/4/2024,6802.45,Income,West,Local Market,14:47:00,Bank Transfer
+750,10/31/2024,1370.84,Income,South,Amazon,14:23:00,Cash
+751,6/21/2024,5534.53,Income,West,Local Market,15:10:00,UPI
+752,11/13/2024,4884.16,Expense,North,Local Market,16:41:00,UPI
+753,10/5/2024,878.22,Expense,East,Uber,15:02:00,Card
+754,12/4/2024,4661.84,Income,South,Costco,9:13:00,UPI
+755,12/27/2024,2759.98,Income,East,Freelance,12:14:00,Card
+756,6/30/2024,1345.03,Income,West,Freelance,14:50:00,Card
+757,12/10/2024,7519.44,Income,West,Uber,12:39:00,Cash
+758,8/3/2024,5946.92,Income,South,Uber,5:57:00,Card
+759,7/6/2024,968.68,Expense,South,Freelance,19:28:00,Bank Transfer
+760,10/2/2024,4342.45,Expense,East,Freelance,4:48:00,UPI
+761,2/28/2024,2161.81,Expense,East,Uber,10:55:00,UPI
+762,6/1/2024,3656.8,Expense,West,Freelance,0:01:00,Cash
+763,8/26/2024,3231.33,Expense,West,Walmart,6:46:00,Cash
+764,12/2/2024,3910.57,Income,North,Local Market,14:13:00,Card
+765,4/20/2024,2585.4,Income,West,Costco,7:06:00,UPI
+766,12/25/2024,6512.83,Income,East,Uber,10:19:00,UPI
+767,2/12/2024,2158.4,Expense,North,Local Market,13:49:00,Card
+768,9/1/2024,3970.87,Income,North,Walmart,18:35:00,UPI
+769,11/10/2024,1922.32,Expense,North,Freelance,9:44:00,Cash
+770,10/13/2024,252.36,Expense,West,Uber,10:35:00,UPI
+771,7/24/2024,1824.34,Expense,South,Costco,16:02:00,Bank Transfer
+772,9/9/2024,3507.95,Expense,South,Local Market,2:50:00,Cash
+773,5/8/2024,9743.36,Income,West,Amazon,7:13:00,UPI
+774,3/22/2024,2390.21,Income,East,Local Market,21:19:00,UPI
+775,11/29/2024,2425.29,Expense,North,Salary,20:12:00,Card
+776,11/27/2024,2038.03,Income,South,Costco,12:44:00,UPI
+777,12/24/2024,1955.76,Income,South,Costco,13:15:00,Cash
+778,9/14/2024,827.46,Expense,West,Walmart,21:02:00,Cash
+779,10/2/2024,149.82,Expense,West,Costco,10:46:00,UPI
+780,12/23/2024,1931.79,Income,North,Uber,18:08:00,UPI
+781,12/1/2024,4571.89,Income,North,Amazon,9:14:00,Cash
+782,2/24/2024,4317.94,Expense,North,Amazon,13:57:00,Cash
+783,4/6/2024,7130.64,Income,South,Walmart,23:30:00,Card
+784,6/14/2024,7181.65,Income,South,Walmart,10:51:00,Bank Transfer
+785,1/27/2024,4834.08,Expense,East,Costco,11:57:00,Cash
+786,10/23/2024,7340.19,Income,North,Amazon,15:51:00,Card
+787,2/2/2024,3265.43,Expense,West,Local Market,12:17:00,Card
+788,12/23/2024,5801.17,Income,North,Uber,17:07:00,UPI
+789,9/18/2024,9357.82,Income,South,Walmart,4:25:00,Card
+790,9/23/2024,6574.03,Income,East,Uber,7:07:00,Card
+791,6/2/2024,7617.62,Income,West,Amazon,5:42:00,Bank Transfer
+792,8/5/2024,1332.79,Expense,West,Freelance,16:30:00,Cash
+793,2/15/2024,3750.09,Income,East,Costco,15:53:00,Cash
+794,1/7/2024,3858.68,Expense,East,Costco,0:29:00,Cash
+795,5/15/2024,8915.94,Income,East,Local Market,21:58:00,Cash
+796,6/22/2024,8643.93,Income,West,Costco,4:40:00,UPI
+797,12/1/2024,3054.19,Income,South,Costco,1:01:00,Bank Transfer
+798,1/9/2024,1206.27,Expense,South,Costco,17:29:00,UPI
+799,1/18/2024,290.56,Expense,North,Walmart,1:46:00,Cash
+800,4/5/2024,2199.25,Expense,East,Amazon,22:11:00,Card
+801,7/2/2024,8684.48,Income,North,Local Market,15:09:00,Card
+802,6/24/2024,871.18,Expense,East,Salary,14:38:00,Cash
+803,11/23/2024,1070.99,Expense,East,Walmart,14:01:00,Cash
+804,8/10/2024,4369.28,Expense,West,Freelance,12:38:00,Cash
+805,9/6/2024,871.08,Expense,East,Walmart,4:12:00,Cash
+806,6/18/2024,4659.2,Income,North,Freelance,17:11:00,Cash
+807,9/4/2024,1493.28,Expense,West,Walmart,10:01:00,Card
+808,9/23/2024,2145.39,Income,South,Local Market,13:41:00,UPI
+809,12/2/2024,901.88,Expense,East,Freelance,16:56:00,Card
+810,9/16/2024,3636.82,Income,North,Amazon,9:24:00,Card
+811,12/3/2024,3760.37,Income,East,Walmart,18:02:00,Bank Transfer
+812,3/18/2024,3430.91,Income,East,Amazon,9:39:00,Cash
+813,9/22/2024,175.43,Expense,East,Amazon,1:20:00,Cash
+814,9/16/2024,1912.59,Expense,North,Costco,20:06:00,Bank Transfer
+815,12/8/2024,4624.39,Expense,East,Amazon,14:21:00,Card
+816,1/19/2024,8545.54,Income,West,Salary,12:16:00,UPI
+817,5/17/2024,3094.25,Income,East,Amazon,19:03:00,Cash
+818,1/30/2024,2388.77,Expense,East,Local Market,20:10:00,Cash
+819,4/9/2024,3003.46,Income,North,Costco,6:53:00,Card
+820,10/29/2024,1679.01,Income,North,Freelance,16:52:00,UPI
+821,12/30/2024,5703.69,Income,South,Uber,15:10:00,UPI
+822,3/23/2024,1704.98,Income,West,Amazon,8:53:00,Cash
+823,9/6/2024,4367.4,Expense,West,Salary,18:41:00,UPI
+824,5/15/2024,1077.34,Expense,East,Local Market,2:06:00,Cash
+825,11/10/2024,1597.93,Expense,West,Uber,17:08:00,Cash
+826,8/15/2024,3403.22,Expense,South,Uber,18:54:00,UPI
+827,1/14/2024,409.55,Expense,West,Amazon,8:24:00,Card
+828,3/21/2024,3840.38,Income,East,Amazon,11:21:00,Bank Transfer
+829,1/29/2024,5653.28,Income,East,Costco,5:13:00,Cash
+830,2/7/2024,3182.02,Expense,East,Local Market,9:13:00,UPI
+831,1/21/2024,3272.83,Expense,South,Local Market,4:07:00,Card
+832,9/14/2024,3875.69,Expense,West,Costco,5:47:00,Card
+833,12/23/2024,4752.51,Income,East,Freelance,6:12:00,Card
+834,2/9/2024,4178.65,Income,South,Uber,21:34:00,Card
+835,12/3/2024,414.27,Expense,West,Walmart,9:08:00,UPI
+836,7/20/2024,9876.58,Income,South,Uber,7:48:00,Bank Transfer
+837,9/8/2024,537.66,Expense,East,Amazon,21:21:00,Bank Transfer
+838,2/28/2024,1324.9,Income,North,Salary,14:01:00,UPI
+839,10/5/2024,9358.93,Income,West,Freelance,5:07:00,Bank Transfer
+840,1/12/2024,2875.89,Income,West,Costco,13:18:00,Bank Transfer
+841,5/24/2024,2363.74,Expense,West,Salary,14:20:00,Card
+842,1/23/2024,2378.81,Income,South,Costco,17:30:00,Bank Transfer
+843,7/19/2024,3039.94,Expense,East,Amazon,0:43:00,Cash
+844,9/30/2024,4342.67,Expense,North,Costco,17:27:00,Bank Transfer
+845,3/6/2024,4426.19,Expense,East,Amazon,23:44:00,UPI
+846,9/8/2024,9503.05,Income,West,Salary,7:10:00,Cash
+847,12/19/2024,4732.64,Expense,North,Uber,4:54:00,Bank Transfer
+848,9/27/2024,3044.13,Expense,East,Freelance,12:52:00,Bank Transfer
+849,6/16/2024,9996.73,Income,North,Freelance,6:27:00,Card
+850,4/5/2024,2795.55,Expense,West,Amazon,0:25:00,UPI
+851,4/1/2024,4322.25,Expense,East,Costco,0:20:00,Bank Transfer
+852,11/21/2024,580.38,Expense,North,Uber,6:00:00,UPI
+853,12/18/2024,3022.91,Income,East,Amazon,17:25:00,Bank Transfer
+854,12/12/2024,860.41,Expense,East,Amazon,20:48:00,Bank Transfer
+855,12/31/2024,6062.21,Income,East,Salary,21:08:00,Card
+856,7/30/2024,3787.51,Expense,East,Local Market,0:21:00,UPI
+857,9/18/2024,8268.16,Income,East,Walmart,10:42:00,Cash
+858,6/26/2024,2440.53,Expense,North,Freelance,11:28:00,Bank Transfer
+859,3/19/2024,1481.26,Expense,East,Uber,3:31:00,UPI
+860,2/18/2024,1169.26,Expense,South,Amazon,8:16:00,UPI
+861,5/16/2024,2206.71,Expense,West,Freelance,4:26:00,Bank Transfer
+862,6/11/2024,2026.78,Expense,West,Uber,2:38:00,UPI
+863,10/21/2024,353.59,Expense,East,Uber,23:21:00,Bank Transfer
+864,6/15/2024,8516.98,Income,South,Freelance,13:31:00,UPI
+865,6/16/2024,9471.45,Income,North,Salary,8:43:00,Bank Transfer
+866,7/1/2024,1968.84,Expense,North,Walmart,14:43:00,Cash
+867,2/13/2024,1916,Expense,East,Walmart,3:49:00,UPI
+868,1/31/2024,4966.88,Expense,West,Costco,17:44:00,UPI
+869,5/9/2024,7900.1,Income,North,Local Market,5:15:00,Card
+870,9/5/2024,3209.34,Income,South,Costco,14:10:00,Cash
+871,6/16/2024,2273.27,Income,West,Uber,20:33:00,Bank Transfer
+872,1/29/2024,1966.88,Income,North,Walmart,19:49:00,Cash
+873,10/10/2024,3121.33,Income,East,Uber,17:06:00,Bank Transfer
+874,11/2/2024,324.43,Expense,West,Local Market,7:07:00,UPI
+875,8/3/2024,4600.03,Expense,South,Walmart,17:43:00,Card
+876,8/9/2024,4164.51,Expense,South,Salary,19:08:00,Cash
+877,3/29/2024,7820.9,Income,West,Local Market,14:19:00,Card
+878,5/28/2024,7422.43,Income,East,Salary,0:26:00,Cash
+879,8/19/2024,2078.02,Expense,South,Local Market,21:20:00,Card
+880,6/29/2024,2622.11,Expense,South,Freelance,14:15:00,Bank Transfer
+881,12/6/2024,8922.67,Income,South,Walmart,7:52:00,UPI
+882,5/31/2024,3286.48,Income,North,Amazon,8:24:00,Card
+883,1/31/2024,3353.69,Expense,North,Uber,20:59:00,UPI
+884,5/13/2024,2098.23,Expense,East,Amazon,1:39:00,Card
+885,2/6/2024,2267.25,Expense,South,Freelance,14:16:00,Cash
+886,11/6/2024,1785.26,Income,North,Costco,15:31:00,Cash
+887,8/4/2024,4075.98,Expense,West,Salary,0:02:00,Cash
+888,11/7/2024,3744.76,Income,East,Costco,13:37:00,Cash
+889,2/27/2024,9859.03,Income,East,Amazon,16:03:00,UPI
+890,6/8/2024,1148.03,Expense,West,Amazon,19:09:00,Bank Transfer
+891,6/14/2024,9649.53,Income,East,Uber,1:44:00,UPI
+892,1/8/2024,4424.88,Income,East,Costco,5:15:00,Bank Transfer
+893,6/19/2024,6323.28,Income,East,Uber,9:51:00,Card
+894,3/25/2024,6595.68,Income,West,Amazon,1:14:00,Card
+895,4/29/2024,6257.7,Income,East,Salary,19:21:00,Cash
+896,7/20/2024,8515.96,Income,East,Salary,13:17:00,UPI
+897,6/10/2024,3511.31,Income,East,Uber,6:43:00,Card
+898,12/12/2024,3869.93,Expense,West,Uber,7:12:00,Bank Transfer
+899,1/5/2024,1747.95,Expense,North,Amazon,5:02:00,Card
+900,4/12/2024,2928.93,Expense,North,Salary,8:05:00,Card
+901,5/27/2024,4421.43,Income,West,Freelance,5:54:00,UPI
+902,12/31/2024,2622.81,Expense,North,Costco,11:39:00,Cash
+903,5/16/2024,9403.04,Income,East,Costco,16:27:00,UPI
+904,5/5/2024,4725.41,Expense,North,Uber,21:32:00,Cash
+905,2/23/2024,5972.29,Income,North,Costco,5:35:00,Bank Transfer
+906,1/18/2024,9751.86,Income,West,Local Market,2:26:00,Cash
+907,1/28/2024,6952.03,Income,West,Walmart,14:59:00,Cash
+908,1/2/2024,3657.29,Income,East,Costco,4:04:00,Card
+909,6/18/2024,4994.73,Expense,East,Freelance,19:05:00,UPI
+910,3/31/2024,4699.45,Income,South,Local Market,14:29:00,Cash
+911,4/14/2024,2191.66,Income,South,Amazon,13:45:00,Bank Transfer
+912,2/22/2024,4366.83,Income,East,Walmart,16:56:00,Bank Transfer
+913,4/18/2024,2035.17,Income,South,Local Market,12:30:00,Bank Transfer
+914,11/30/2024,7838.89,Income,West,Amazon,8:22:00,Cash
+915,9/10/2024,5837.08,Income,North,Amazon,19:20:00,UPI
+916,7/30/2024,1460.38,Income,East,Costco,22:21:00,Card
+917,6/7/2024,5016.98,Income,North,Amazon,12:12:00,UPI
+918,3/4/2024,2409.56,Expense,South,Uber,4:46:00,Card
+919,9/12/2024,3566.59,Expense,North,Salary,19:03:00,Card
+920,7/21/2024,9591.7,Income,South,Salary,14:27:00,UPI
+921,1/24/2024,4353.63,Expense,West,Local Market,3:23:00,UPI
+922,7/14/2024,2285.76,Expense,North,Local Market,16:01:00,UPI
+923,4/16/2024,2439.27,Income,North,Salary,5:12:00,Cash
+924,3/20/2024,1443.95,Income,South,Local Market,20:32:00,UPI
+925,11/16/2024,1173.99,Expense,North,Salary,15:35:00,Card
+926,10/30/2024,7581.68,Income,North,Freelance,14:27:00,Cash
+927,2/25/2024,2437.25,Expense,West,Costco,10:57:00,Card
+928,10/1/2024,2471.94,Expense,West,Costco,3:47:00,Card
+929,9/20/2024,6686.37,Income,North,Amazon,18:39:00,UPI
+930,12/7/2024,2648.35,Expense,West,Freelance,3:39:00,Card
+931,2/7/2024,6746.31,Income,North,Walmart,5:47:00,Card
+932,11/17/2024,4770.32,Expense,North,Amazon,23:40:00,Card
+933,1/23/2024,3053.52,Income,East,Uber,18:28:00,Card
+934,2/29/2024,4936.92,Income,North,Freelance,17:57:00,Card
+935,10/24/2024,4310.86,Expense,North,Costco,1:01:00,Card
+936,7/31/2024,413.25,Expense,West,Walmart,10:23:00,Cash
+937,11/4/2024,1749.16,Income,East,Local Market,14:36:00,Bank Transfer
+938,1/14/2024,4647.9,Expense,East,Uber,17:37:00,UPI
+939,9/27/2024,4784.04,Expense,South,Costco,0:23:00,Bank Transfer
+940,1/16/2024,2026.67,Expense,North,Uber,22:24:00,Cash
+941,9/11/2024,4217.03,Income,North,Amazon,4:43:00,Bank Transfer
+942,8/5/2024,6538.8,Income,North,Walmart,17:31:00,Bank Transfer
+943,8/27/2024,1494.34,Income,East,Costco,11:45:00,Cash
+944,12/26/2024,4960.42,Expense,West,Costco,1:00:00,Cash
+945,10/22/2024,3601.59,Expense,South,Freelance,12:53:00,Bank Transfer
+946,5/5/2024,8480.38,Income,East,Salary,1:07:00,UPI
+947,10/19/2024,8866.6,Income,South,Uber,13:41:00,Bank Transfer
+948,1/19/2024,3633.09,Expense,South,Amazon,11:01:00,UPI
+949,2/20/2024,2444.33,Expense,South,Costco,9:49:00,Card
+950,5/25/2024,7196.97,Income,West,Salary,2:52:00,Card
+951,5/28/2024,2082.91,Expense,North,Local Market,22:31:00,Bank Transfer
+952,6/9/2024,4981.97,Expense,East,Uber,6:53:00,UPI
+953,3/4/2024,3312.14,Income,North,Amazon,14:52:00,Card
+954,8/27/2024,4828.06,Expense,South,Uber,21:44:00,UPI
+955,3/23/2024,1950.44,Income,West,Freelance,12:19:00,Bank Transfer
+956,9/15/2024,1774.88,Expense,North,Amazon,8:43:00,Bank Transfer
+957,6/17/2024,3352.47,Expense,West,Salary,16:11:00,Bank Transfer
+958,1/29/2024,3095.77,Expense,North,Salary,18:09:00,Card
+959,12/18/2024,3666.31,Expense,West,Walmart,1:32:00,Card
+960,11/28/2024,983.73,Expense,East,Salary,3:06:00,Card
+961,1/22/2024,4610.59,Income,South,Costco,21:52:00,Cash
+962,11/29/2024,4936.23,Income,South,Walmart,18:54:00,Cash
+963,11/23/2024,1027.63,Expense,South,Walmart,7:43:00,UPI
+964,12/9/2024,4965.13,Expense,West,Uber,1:10:00,UPI
+965,5/8/2024,9792.61,Income,West,Walmart,14:09:00,Card
+966,1/31/2024,7515.77,Income,West,Freelance,23:13:00,Cash
+967,1/22/2024,8494.4,Income,East,Walmart,12:36:00,Bank Transfer
+968,8/26/2024,294.43,Expense,North,Costco,14:50:00,Cash
+969,7/23/2024,1907,Expense,South,Uber,9:22:00,Card
+970,6/21/2024,1048.03,Expense,North,Walmart,21:33:00,Cash
+971,1/11/2024,9902.04,Income,East,Salary,15:14:00,Cash
+972,7/8/2024,4777.1,Income,East,Salary,10:29:00,Bank Transfer
+973,4/16/2024,2839.21,Expense,North,Salary,23:19:00,Cash
+974,6/23/2024,3658.69,Income,East,Freelance,0:38:00,UPI
+975,3/13/2024,1156.77,Expense,North,Uber,9:54:00,Cash
+976,4/16/2024,4763.34,Expense,North,Salary,5:13:00,Bank Transfer
+977,10/22/2024,8479.74,Income,East,Uber,16:00:00,Cash
+978,3/16/2024,8318.06,Income,South,Walmart,5:57:00,Cash
+979,5/8/2024,1104.92,Expense,East,Freelance,21:11:00,UPI
+980,4/15/2024,4893.35,Expense,East,Walmart,8:10:00,Card
+981,2/2/2024,1210.34,Expense,South,Salary,15:28:00,UPI
+982,6/28/2024,412.55,Expense,South,Freelance,13:01:00,Cash
+983,12/2/2024,3024.57,Income,North,Costco,3:35:00,Cash
+984,10/29/2024,2492.24,Expense,North,Uber,22:13:00,Bank Transfer
+985,5/29/2024,4835.04,Expense,West,Walmart,13:54:00,Cash
+986,5/20/2024,4390.22,Expense,West,Freelance,3:08:00,Cash
+987,8/10/2024,1926.06,Income,South,Local Market,9:39:00,Bank Transfer
+988,5/20/2024,9522.72,Income,South,Walmart,12:53:00,Bank Transfer
+989,3/30/2024,6093.73,Income,South,Salary,21:21:00,Card
+990,11/20/2024,313.49,Expense,West,Walmart,18:33:00,Cash
+991,11/11/2024,4897.35,Expense,West,Walmart,14:56:00,Card
+992,7/23/2024,1816.28,Expense,North,Local Market,9:52:00,UPI
+993,1/3/2024,4382.53,Expense,South,Costco,21:02:00,Card
+994,12/16/2024,3299.78,Income,East,Amazon,2:54:00,UPI
+995,10/5/2024,107.39,Expense,East,Salary,2:10:00,UPI
+996,2/12/2024,796.26,Expense,South,Uber,6:32:00,UPI
+997,2/19/2024,3384.13,Income,West,Salary,16:40:00,UPI
+998,7/29/2024,2770.02,Income,East,Costco,8:02:00,Cash
+999,3/22/2024,524.21,Expense,East,Salary,2:45:00,Cash
+1000,5/24/2024,898.32,Expense,West,Walmart,1:34:00,Card
